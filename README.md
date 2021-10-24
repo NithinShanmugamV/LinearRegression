@@ -3,9 +3,9 @@
 <h2 align = "center"> Machine Learning with Python<br>
 VAC Assignment</h2>
 
-Name: Nithin Shanmugam V <br>
-Reg No: RA1911026020087<br>
-This task is done behalf of my academic curriculum.
+<b>Name: Nithin Shanmugam V</b> <br>
+<b>Reg No: RA1911026020087<b><br>
+<em color = "blue">This task is done behalf of my academic curriculum</em>.
 
 Task Assigned:<br>
 1. Choose a problem statement in any field 
