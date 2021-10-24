@@ -18,3 +18,5 @@ Problem statement choosed:
 Finding a relationship between water salinity & water temperature. Trying to find whether can we predict the water temperature based on salinity.
 
 Dataset Used: CalCOFI dataset
+
+Link to Jupyter notebook: https://github.com/NithinShanmugamV/LinearRegression/blob/main/LinearRegression-WaterTemperaturePrediction(Using_Salinity).ipynb
