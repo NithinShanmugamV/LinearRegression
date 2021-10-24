@@ -3,6 +3,9 @@
 VAC task
 
 Name: Nithin Shanmugam V
+Reg No: RA1911026020087
+
+This task is done behalf of my academic curriculum
 
 TASK Assigned:
 
@@ -14,8 +17,7 @@ TASK Assigned:
 6. Plot graphs wherever necessary and provide performance metric
 
 
-Problem statement choosed: 
-Finding a relationship between water salinity & water temperature. Trying to find whether can we predict the water temperature based on salinity.
+Problem statement choosed: Finding a relationship between water salinity & water temperature. 
 
 Dataset Used: CalCOFI dataset
 
