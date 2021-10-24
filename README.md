@@ -3,7 +3,7 @@
 VAC task
 
 Name: Nithin Shanmugam V
-Reg No: RA1911026020087
+\nReg No: RA1911026020087
 
 This task is done behalf of my academic curriculum
 
@@ -21,4 +21,4 @@ Problem statement choosed: Finding a relationship between water salinity & water
 
 Dataset Used: CalCOFI dataset
 
-Link to Jupyter notebook: https://github.com/NithinShanmugamV/LinearRegression/blob/main/LinearRegression-WaterTemperaturePrediction(Using_Salinity).ipynb
+Link to Jupyter notebook: https://github.com/NithinShanmugamV/LinearRegression/blob/main/Linear%20Regression-Water%20Temperature%20Prediction(Using%20Salinity).ipynb
