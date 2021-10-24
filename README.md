@@ -3,11 +3,11 @@
 <h2 align = "center"> Machine Learning with Python<br>
 VAC Assignment</h2>
 
-<b>Name: Nithin Shanmugam V</b> <br>
-<b>Reg No: RA1911026020087<b><br>
-<em color = "blue">This task is done behalf of my academic curriculum</em>.
+<em><b>Name: Nithin Shanmugam V</b> <br>
+<b>Reg No: RA1911026020087<b><br></em>
+This assignment is done behalf of my academic curriculum.
 
-Task Assigned:<br>
+Assignment Assigned:<br>
 1. Choose a problem statement in any field 
 2. Collect data with appropriate features for the problem statement 
 3. Data collection can be done on your own depending on the problem statement or you can also use the dataset available open source 
@@ -21,3 +21,5 @@ Problem statement choosed: Finding a relationship between water salinity & water
 Dataset Used: CalCOFI dataset 
 
 Link to Jupyter notebook: https://github.com/NithinShanmugamV/LinearRegression/blob/main/Linear%20Regression-Water%20Temperature%20Prediction(Using%20Salinity).ipynb
+
+To know more about assignment guidelines: https://github.com/NithinShanmugamV/LinearRegression/blob/main/Machine%20Learning%20Assignment.pdf
