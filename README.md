@@ -20,5 +20,5 @@ Problem statement choosed: Finding a relationship between water salinity & water
 
 Dataset Used: CalCOFI dataset 
 
-Link to Jupyter notebook: https://github.com/NithinShanmugamV/LinearRegression/blob/main/Linear%20Regression-Water%20Temperature%20Prediction(Using%20Salinity).ipynb
+Link to Jupyter notebook: https://github.com/NithinShanmugamV/LinearRegression/blob/main/Linear%20Regression-Water%20Temperature%20Prediction(Using%20Salinity).ipynb <br>
 To know more about assignment guidelines: https://github.com/NithinShanmugamV/LinearRegression/blob/main/Machine%20Learning%20Assignment.pdf
