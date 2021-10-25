@@ -1,4 +1,4 @@
-## <h1>LINEAR REGRESSION USING SALINITY TO PREDICT TEMPERATURE OF WATER</h1>
+## <h1 align = "center">LINEAR REGRESSION <br>USING SALINITY TO PREDICT TEMPERATURE OF WATER</h1>
 
 <h2 align = "center"> Machine Learning with Python<br>
 VAC Assignment</h2>
@@ -21,5 +21,4 @@ Problem statement choosed: Finding a relationship between water salinity & water
 Dataset Used: CalCOFI dataset 
 
 Link to Jupyter notebook: https://github.com/NithinShanmugamV/LinearRegression/blob/main/Linear%20Regression-Water%20Temperature%20Prediction(Using%20Salinity).ipynb
-
 To know more about assignment guidelines: https://github.com/NithinShanmugamV/LinearRegression/blob/main/Machine%20Learning%20Assignment.pdf
